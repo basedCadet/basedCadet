@@ -13,5 +13,5 @@
 ![](https://img.shields.io/badge/Tailwind-1CB6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFDD55?style=flat&logo=python)
 
-#### 🎓 Education:
+#### Education:
 - In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brasil (2021 - Now...) ⌛
