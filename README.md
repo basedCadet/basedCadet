@@ -14,4 +14,4 @@
 ![](https://img.shields.io/badge/Python-FFDD55?style=flat&logo=python)
 
 #### Education:
-- In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brasil (2021 - Now...) ⌛
+- In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
