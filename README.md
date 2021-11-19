@@ -4,7 +4,6 @@
 
 #### Skills
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
-
 ![](https://img.shields.io/badge/JavaScript-968220?style=flat&logo=JavaScript&logoColor=white)
 
 #### Learning:
