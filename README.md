@@ -13,6 +13,8 @@
 ![](https://img.shields.io/badge/Express-00a022?style=flat&logo=express)
 ![](https://img.shields.io/badge/React-1CB6D4?style=flat&logo=React&logoColor=white)
 
+#### Reading:
+ Eloquent JavaScript
 
 #### Education:
 - In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
