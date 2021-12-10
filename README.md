@@ -12,6 +12,9 @@
 ![](https://img.shields.io/badge/NodeJs-005022?style=flat&logo=Node.js)
 ![](https://img.shields.io/badge/Express-00a022?style=flat&logo=express)
 ![](https://img.shields.io/badge/React-1CB6D4?style=flat&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Ruby-005022?style=flat&logo=Ruby)
+![](https://img.shields.io/badge/Rails-005022?style=flat&logo=Rails)
+![](https://img.shields.io/badge/Clojure-005022?style=flat&logo=Clojure)
 
 #### Reading:
  Eloquent JavaScript
