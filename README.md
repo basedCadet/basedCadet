@@ -18,6 +18,7 @@
 
 #### Reading:
  - Eloquent JavaScript
+ - Conhecendo Ruby
 
 #### Education:
 - In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
