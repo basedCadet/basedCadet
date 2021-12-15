@@ -2,7 +2,7 @@
 
 ## My name is Marcelo, i'm from Brazil and currently an aspiring full-stack developer.
 
-#### Skills
+#### Skills:
 ![](https://img.shields.io/badge/HTML5-E96228?style=flat&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-968220?style=flat&logo=JavaScript&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-2862E9?style=flat&logo=CSS3&logoColor=white)
