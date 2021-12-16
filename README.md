@@ -14,7 +14,7 @@
 ![](https://img.shields.io/badge/React-1CB6D4?style=flat&logo=React&logoColor=white)
 
 
-#### Interested to learn later:
+#### I'll be learning later:
 ![](https://img.shields.io/badge/TypeScript-CDF?style=flat&logo=TypeScript)
 ![](https://img.shields.io/badge/TailwindCss-FFFFFF?style=flat&logo=TailwindCss)
 ![](https://img.shields.io/badge/Sass-FFDDEE?style=flat&logo=Sass)
@@ -26,11 +26,12 @@
 #### 4Fun:
 ![](https://img.shields.io/badge/Clojure-55AA55?style=flat&logo=Clojure)
 ![](https://img.shields.io/badge/Haskell-5E5086?style=flat&logo=Haskell)
+![](https://img.shields.io/badge/Lua-163C7F?style=flat&logo=Lua)
 
 
 #### Reading:
  - Eloquent JavaScript
- - Estruturas de dados e algoritmos com JavaScript
+ - JavaScript Data Structures and Algorithms
 
 #### Education:
 - In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
