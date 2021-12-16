@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/Sass-FFDDEE?style=flat&logo=Sass)
 ![](https://img.shields.io/badge/Ruby-AA2B28?style=flat&logo=Ruby)
 ![](https://img.shields.io/badge/RubyOnRails-C53330?style=flat&logo=RubyOnRails)
+![](https://img.shields.io/badge/Django-154B33?style=flat&logo=Django)
 ![](https://img.shields.io/badge/Docker-111188?style=flat&logo=Docker)
 
 #### 4Fun:
