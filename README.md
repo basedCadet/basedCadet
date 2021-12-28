@@ -20,19 +20,20 @@
 ![](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
 ![](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript)
 ![](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3)
-![](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
 
 #### Learning now:
 ![](https://img.shields.io/badge/NodeJs-333?style=for-the-badge&logo=Node.js)
-![](https://img.shields.io/badge/Express-333?style=for-the-badge&logo=express)
+![](https://img.shields.io/badge/Express-333?style=for-the-badge&logo=Express)
 ![](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
 
 #### I'll be learning later:
 ![](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=TypeScript)
-![](https://img.shields.io/badge/Rust-333?style=for-the-badge&logo=Rust&logoColor=black)
-![](https://img.shields.io/badge/Solidity-333?style=for-the-badge&logo=Solidity&logoColor=black)
-![](https://img.shields.io/badge/Django-333?style=for-the-badge&logo=Django)
+![](https://img.shields.io/badge/Next-333?style=for-the-badge&logo=Next.js)
+![](https://img.shields.io/badge/Rust-333?style=for-the-badge&logo=Rust)
+![](https://img.shields.io/badge/Solidity-333?style=for-the-badge&logo=Solidity)
 ![](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=Docker)
+
 
 #### 4Fun:
 ![](https://img.shields.io/badge/Haskell-333?style=for-the-badge&logo=Haskell)
