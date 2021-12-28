@@ -25,26 +25,17 @@
 ![](https://img.shields.io/badge/NodeJs-005022?style=flat&logo=Node.js)
 ![](https://img.shields.io/badge/Express-272727?style=flat&logo=express)
 ![](https://img.shields.io/badge/React-1CB6D4?style=flat&logo=React&logoColor=white)
-
+![](https://img.shields.io/badge/Rust-F7513F?style=flat&logo=Rust&logoColor=black)
 
 #### I'll be learning later:
 ![](https://img.shields.io/badge/TypeScript-CDF?style=flat&logo=TypeScript)
 ![](https://img.shields.io/badge/TailwindCss-FFFFFF?style=flat&logo=TailwindCss)
 ![](https://img.shields.io/badge/Sass-FFDDEE?style=flat&logo=Sass)
-![](https://img.shields.io/badge/Ruby-AA2B28?style=flat&logo=Ruby)
-![](https://img.shields.io/badge/RubyOnRails-C53330?style=flat&logo=RubyOnRails)
 ![](https://img.shields.io/badge/Django-154B33?style=flat&logo=Django)
 ![](https://img.shields.io/badge/Docker-111188?style=flat&logo=Docker)
 
 #### 4Fun:
-![](https://img.shields.io/badge/Clojure-55AA55?style=flat&logo=Clojure)
 ![](https://img.shields.io/badge/Haskell-5E5086?style=flat&logo=Haskell)
-![](https://img.shields.io/badge/Lua-163C7F?style=flat&logo=Lua)
-
-
-#### Reading:
- - Eloquent JavaScript
- - JavaScript Data Structures and Algorithms
 
 #### Education:
 - In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
