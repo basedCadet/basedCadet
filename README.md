@@ -13,30 +13,29 @@
 
 
 
-## My name is Marcelo, i'm from Brazil and currently an aspiring Fullstack developer.
+<!-- ## My name is Marcelo, i'm from Brazil and i am a Frontend Developer. -->
 
-#### Skills:
+## Public information
+* My name is Marcelo Ferreira, i currently live in Alagoas, Brazil, and i'm a Frontend Developer. 
 
-![](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=HTML5)
-![](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=JavaScript)
-![](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=CSS3)
-![](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=Python)
+* On my free time, i like to watch some Tv Shows (mostly Sitcoms), play games like League of Legends and Chess, and read about Functional Programming stuff.
 
-#### Learning now:
-![](https://img.shields.io/badge/NodeJs-333?style=for-the-badge&logo=Node.js)
-![](https://img.shields.io/badge/Express-333?style=for-the-badge&logo=Express)
-![](https://img.shields.io/badge/React-333?style=for-the-badge&logo=React)
+* In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
+ 
+* I hope you can find something useful here, Good Luck! 
+<br>
+<div align="center">
+  <a href="https://github.com/basedCadet">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=basedCadet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basedCadet&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  <br><br>
+<div align="center">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
 
-#### I'll be learning later:
-![](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=TypeScript)
-![](https://img.shields.io/badge/Next-333?style=for-the-badge&logo=Next.js)
-![](https://img.shields.io/badge/Rust-333?style=for-the-badge&logo=Rust)
-![](https://img.shields.io/badge/Solidity-333?style=for-the-badge&logo=Solidity)
-![](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=Docker)
-
-
-#### 4Fun:
-![](https://img.shields.io/badge/Haskell-333?style=for-the-badge&logo=Haskell)
-
-#### Education:
-- In progress CS Bachelor Graduation at Universidade Federal de Alagoas - Arapiraca, Brazil (2021 - Now...) ⌛
