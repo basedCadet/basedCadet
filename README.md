@@ -16,7 +16,7 @@
 <!-- ## My name is Marcelo, i'm from Brazil and i am a Frontend Developer. -->
 
 ## Public information
-* My name is Marcelo Ferreira, i currently live in Alagoas, Brazil, and i'm a Frontend Developer. 
+* My name is Marcelo Ferreira, i currently live in Alagoas, Brazil, and i'm a Fullstack Developer. 
 
 * On my free time, i like to watch some Tv Shows (mostly Sitcoms), play games like League of Legends and Chess, and read about Functional Programming stuff.
 
