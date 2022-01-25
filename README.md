@@ -27,7 +27,7 @@
 <div align="center">
   <a href="https://github.com/basedCadet">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=basedCadet&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basedCadet&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=basedCadet&layout=compact&langs_count=4&theme=dracula"/>
 </div>
   <br><br>
 <div align="center">
