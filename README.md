@@ -13,7 +13,7 @@
 <!-- ## My name is Marcelo, i'm from Brazil and i am a Frontend Developer. -->
 
 ## Public information
-* My name is Marcelo Ferreira, i currently live in Alagoas, Brazil, and i'm a Fullstack Developer. 
+* My name is Marcelo Ferreira, i currently live in Alagoas, Brazil, and i'm a Frontend Developer. 
 
 * On my free time, i like to watch some Tv Shows (mostly Sitcoms), play games like League of Legends and Chess, and read about Functional Programming stuff.
 
@@ -29,9 +29,11 @@
   <br><br>
 <div align="center">
   <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg">
+    <img align="center" alt="Js" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Python" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
