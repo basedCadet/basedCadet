@@ -28,7 +28,6 @@
 </div>
   <br><br>
 <div align="center">
-  <img align="center" alt="Python" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Django" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg">
   <img align="center" alt="Flask" height="60em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
   <img align="center" alt="HTML" height="50em" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
