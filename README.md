@@ -8,7 +8,7 @@
 </pre>
 
 
-<div align="center">
+<div>
   <h2>Work with</h2>
   <img width="60" height="60" align='center' title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="60" height="60" align='center' title="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -19,7 +19,7 @@
   <img width="60" height="60" align='center' title="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 </div>
 
-<div align="center">
+<div>
   <h2>Interested in</h2>
   <img width="60" height="60" align='center' title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img width="60" height="60" align='center' title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -29,7 +29,7 @@
 </div>
 
 
-<div align="center">
+<div>
     <h2>Github stats</h2>
     <img alt="status github, commits, etc..." height="200px" src="https://github-readme-stats.vercel.app/api?username=basedCadet&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8" />
 </div>
