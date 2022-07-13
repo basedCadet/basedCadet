@@ -7,6 +7,14 @@
 ╚═════════════════════════════════════════════════════════════╝               
 </pre>
 
+<div>
+  <a target='_blank' href='flaviomff@gmail.com'> 
+    <img src="https://img.shields.io/badge/Gmail-aa2222?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> 
+  <a target='_blank' href="https://www.linkedin.com/in/marcelo-ferreira-790a66226/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
 
 <div>
   <h2>Work with</h2>
