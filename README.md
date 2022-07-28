@@ -32,8 +32,6 @@
 <div>
   <h2>Interested in</h2>
   <img width="60" height="60" align='center' title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img width="60" height="60" align='center' title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img width="60" height="60" align='center' title="Tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
   <img width="60" height="60" align='center' title="Nodejs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="60" height="60" align='center' title="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 </div>
