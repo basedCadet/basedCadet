@@ -30,7 +30,7 @@
     
 </div>
 
-## **🌠You can find me on:**
+## **🌠You can reach me on:**
 *Click on the image to be redirected*
 
 <div>
