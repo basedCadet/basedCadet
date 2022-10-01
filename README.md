@@ -3,11 +3,6 @@
    <img src="https://komarev.com/ghpvc/?username=basedCadet&style=for-the-badge"/> 
 </div>
 
-## **🐉 About me:**
-* Marcelo Ferreira, 21 years old.
-* Frontend Developer but an aspiring Fullstack Developer.
-* I have 6 months of work experience and a few more of studying experience.
-
 ## **💬 My skills:**
 <div>
   <img width="50" height="50" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
