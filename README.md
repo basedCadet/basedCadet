@@ -3,7 +3,7 @@
    <img src="https://komarev.com/ghpvc/?username=basedCadet&style=for-the-badge"/> 
 </div>
 
-## **💬 Main skills:**
+## **💬 I work (or intend to work) with:**
 <div>
   <img width="50" height="50" title="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
   <img width="50" height="50" title="Laravel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
